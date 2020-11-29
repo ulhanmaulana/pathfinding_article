@@ -3,7 +3,7 @@ PATH FINDING DI UNITY DENGAN MENGGUNAKAN FITUR NAVIGASI
 
 
 
-![Alt text](ulhanmaulana/pathfinding_article/1.jpg?raw=true "Optional Title")
+[My image](ulhanmaulana.github.com/pathfinding_article/1.jpg)
 
 
 
